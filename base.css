@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+html {
+    font-size: 62.5%;
+    color: #666666;
+    background-color: white;
+    letter-spacing: 1px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+button, input, select, textarea {
+    font-family: inherit;
+    font-size: 100%;
+}
